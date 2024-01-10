@@ -1,0 +1,64 @@
+{
+	"AssetType": "IP Collection",
+	"Title": "moqTitle",
+	"Url": "https://test-dev.azurewebsites.net/",
+	"Description": "moqDescription",
+	"DescriptionJson": null,
+	"Products": [ "moqProducts" ],
+	"Scenarios": [ "moqscenarios" ],
+	"Tags": [ "moqtags" ],
+	"AssoProjectTitle": { "12": "moqAssoProjectTitle" },
+	"AssetId": null,
+	"RegisteredBy": "moqRegisteredBy",
+	"Owners": [ "moqOwner" ],
+	"Contributors": [ "moqContributors" ],
+	"Version": "",
+	"Status": "",
+	"SolutionAreas": null,
+	"Industries": null,
+	"IsCreateNewVersion": null,
+	"UrlSlug": null,
+	"IsReadOnly": false,
+	"IsPrivate": false,
+	"PrivateUser": null,
+	"LinkedAssets": null,
+	"BuildNumber": null,
+	"AssetURLAccessSteps": null,
+	"EffortsCouldSaveUpto": null,
+	"IsManualPAT": null,
+	"AssociatedVerifiedTags": null,
+	"IsManualBootstrap": false,
+	"NotifyUsers": null,
+	"IsContentDownloadable": false,
+	"DownloadableContentType": null,
+	"DemoLink": "",
+	"Readiness": [
+		{
+			"Name": "Rediness",
+			"Link": "https://test-dev.azurewebsites.net/"
+		}
+	],
+	"Evidence": [
+		{
+			"Name": "Evidence",
+			"Link": "https://test-dev-eve.azurewebsites.net/"
+		}
+	],
+	"Horizon": [ "Operational" ],
+	"BusinessProblems": "",
+	"BusinessValue": "",
+	"ArchitectureDesc": "",
+	"HarvestDetail": {
+		"Source": "Virtuso",
+		"SourceId": "test1",
+		"SourceName": "testProj",
+		"Notes": ""
+	},
+	"MCEMContext": {
+		"Type": "Specific",
+		"SpecificSubType": {
+			"PreSales": [ "Listen & Consult" ],
+			"Delivery": [ "Manage & Optimize" ]
+		}
+	}
+}
