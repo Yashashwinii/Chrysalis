@@ -1,0 +1,22 @@
+2024-02-09 07:10:22Z [INF] Starting Bootstrap for InnerSourceID: eDXPFSPuLv and BuildNumber: 20240209.1 at target https://dev.azure.com/IBIS-Test-ADO/IBIS-Test
+2024-02-09 07:10:23Z [INF] Downloaded the Package for InnerSourceID: eDXPFSPuLv and BuildNumber: 20240209.1
+2024-02-09 07:10:23Z [INF] Extracted the Package for InnerSourceID: eDXPFSPuLv and BuildNumber: 20240209.1
+2024-02-09 07:10:23Z [INF] Bootstrap started for Project Areas on target
+2024-02-09 07:10:23Z [INF] Bootstrap completed for Project Areas on target DevOps
+2024-02-09 07:10:23Z [INF] Bootstrap started for Project Iterations on target
+2024-02-09 07:10:23Z [INF] Bootstrap completed for Project Iterations on target DevOps
+2024-02-09 07:10:23Z [INF] Creating the teams at target
+2024-02-09 07:10:23Z [INF] Getting list of the teams at target
+2024-02-09 07:10:24Z [INF] Creating the team areas for "Feature Team  1" at target
+2024-02-09 07:10:25Z [INF] Team areas for "Feature Team  1"  is created successfully at target
+2024-02-09 07:10:25Z [INF] Creating the team iterations for "Feature Team  1" at target
+2024-02-09 07:10:25Z [INF] Team iterations for "Feature Team  1" is created successfully at target
+2024-02-09 07:10:25Z [INF] ModifiedTeamSetting for "Feature Team  1" at target
+2024-02-09 07:10:26Z [INF] TeamSetting for "Feature Team  1"  is modified successfully at target
+2024-02-09 07:10:26Z [INF] Creating the team areas for "Build Administrator" at target
+2024-02-09 07:10:26Z [INF] Team areas for "Build Administrator"  is created successfully at target
+2024-02-09 07:10:26Z [INF] Creating the team iterations for "Build Administrator" at target
+2024-02-09 07:10:26Z [INF] Team iterations for "Build Administrator" is created successfully at target
+2024-02-09 07:10:26Z [INF] ModifiedTeamSetting for "Build Administrator" at target
+2024-02-09 07:10:26Z [INF] TeamSetting for "Build Administrator"  is modified successfully at target
+2024-02-09 07:10:26Z [INF] Bootstrap Success for InnerSourceID: eDXPFSPuLv and BuildNumber: 20240209.1
