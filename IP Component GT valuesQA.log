@@ -1,0 +1,15 @@
+2024-08-08 08:35:08Z [INF] Starting Bootstrap for InnerSourceID: O5UWlWh9eh and BuildNumber: 20240808.1 at target https://dev.azure.com/IBIS-Test-ADO/Test_TCS/
+2024-08-08 08:35:16Z [INF] Downloaded the Package for InnerSourceID: O5UWlWh9eh and BuildNumber: 20240808.1
+2024-08-08 08:35:16Z [INF] Extracted the Package for InnerSourceID: O5UWlWh9eh and BuildNumber: 20240808.1
+2024-08-08 08:35:16Z [INF] Bootstrap started for Project Areas on target
+2024-08-08 08:35:16Z [INF] Bootstrap failed for Project Areas: IBIS (Intelligent Bootstrap Integrated System) on Target DevOps due to
+2024-08-08 08:35:16Z [ERR] PAT cannot manage project and team on the target project. Please verify PAT has permission of "Read, Write & manage" on scope "Project and Team" and "Read, Write & manage" on scope "Work Items".
+2024-08-08 08:35:16Z [INF] Bootstrap started for Project Iterations on target
+2024-08-08 08:35:16Z [INF] Bootstrap failed for Project Iterations: IBIS (Intelligent Bootstrap Integrated System) on Target DevOps due to
+2024-08-08 08:35:16Z [ERR] PAT cannot manage project and team on the target project. Please verify PAT has permission of "Read, Write & manage" on scope "Project and Team" and "Read, Write & manage" on scope "Work Items".
+2024-08-08 08:35:16Z [INF] Creating the teams at target
+2024-08-08 08:35:16Z [INF] Getting list of the teams at target
+2024-08-08 08:35:17Z [INF] Bootstrap failed on Target DevOps due to
+2024-08-08 08:35:17Z [ERR] PAT cannot manage project and team on the target project. Please verify PAT has permission of "Read, Write & manage" on scope "Project and Team" and "Read, Write & manage" on scope "Work Items".
+2024-08-08 08:35:17Z [INF] Copying of Artifacts in the form of Office files/folders not in scope of bootstrap.
+2024-08-08 08:35:17Z [INF] Bootstrap Failed for InnerSourceID: O5UWlWh9eh and BuildNumber: 20240808.1
